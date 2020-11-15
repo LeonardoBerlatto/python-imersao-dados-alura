@@ -6,7 +6,7 @@ Project used to store all the content and knowledge I got from [Alura's Imersão
 
 This projet contains charts and simple machine learning models built using ENEM 2019 data. You can find the same data [here](http://inep.gov.br/web/guest/microdados)
 
-The graphs provide some insights of relationships like, for example, between family income and grades.
+The graphs provide some insights of relationships like, for example, between household income and test scores.
 
 The machine learning models try to predict a continuous variable by a serie of other continuous variables
 
