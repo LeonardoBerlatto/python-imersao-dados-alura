@@ -16,10 +16,17 @@ You can open all the **.ipynb* files on [Google Colab](https://colab.research.go
 *Or...*
 
 You can run locally
+
+1. Install all dependencies
 ```bash
 python -m venv venv
 source /venv/bin/activate
 pip install -r requirements.txt
+```
+
+2. And then run a file you want with
+```bash
+python some_file.py
 ```
 
 ## :crystal_ball: Technologies
